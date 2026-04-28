@@ -18,10 +18,3 @@ Technical support for hardware integration.
 For commercial inquiries and licensing terms, please contact the founders of Project Barnaby at Old-Time Vibes LLC.
 Established Oct 3 ,2025
 
-​1. For the Code (GitHub/Local Repo)
-​Use the PolyForm Noncommercial License 1.0.0.
-​Why: It is specifically written for software to allow personal and research use while strictly prohibiting commercial use. It is more legally sound for code than Creative Commons.
-​Action: Add a LICENSE file to your repository with this text and a README.md stating: "Commercial use requires a separate lease via Old-Time Vibes LLC."
-​2. For the Hardware & Documentation
-​Use CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike).
-​Why: This
